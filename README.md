@@ -2,7 +2,7 @@
 Mask email with keeping domain intact
 
 ## Install
-`yarn install mask-email`
+`yarn install email-mask`
 
 ## Usage
 ```javascript
