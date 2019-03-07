@@ -1,6 +1,6 @@
 {
   "name": "email-mask",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "mask email user but keep domain",
   "main": "index.js",
   "author": "Mohit Jain <mayank.mohit@gmail.com>",
