@@ -1,9 +1,9 @@
 {
-  "name": "mask-email",
-  "version": "1.0.0",
+  "name": "email-mask",
+  "version": "1.0.2",
   "description": "mask email user but keep domain",
   "main": "index.js",
-  "repository": "git@github.com:mohitmayank/mask-email.git",
+  "repository": "git@github.com:mohitmayank/email-mask.git",
   "author": "Mohit Jain <mayank.mohit@gmail.com>",
   "license": "MIT"
 }
