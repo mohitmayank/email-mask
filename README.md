@@ -1,4 +1,4 @@
-# await-global
+# mask-email
 Mask email with keeping domain intact
 
 ## Install
